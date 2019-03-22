@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Contribution
 
+###Copyrihgt
+
 I don't know what for is this
 
 ## Iskra
